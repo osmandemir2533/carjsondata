@@ -5,6 +5,15 @@ Bu repo, [CarModelProjectReact](https://github.com/osmandemir2533/CarModelProjec
 - **JSON Verileri:** Otomobil bilgilerini içeren `car.json` dosyası.  
 - **Backend Servisi:** Bu veriler, [Render](https://carjsondata.onrender.com/arabalar) üzerinden dinamik olarak sağlanmaktadır.  
 
+### JSON İçeriği  
+Aşağıdaki bilgiler `car.json` dosyasında yer almaktadır:  
+- **ID**
+- **Marka**
+- **Model**
+- **Yıl**
+- **Fiyat**
+- **Tork** 
+
 ### Kullanım  
 - Bu veriler, React projesinde API çağrılarıyla kullanılabilir.  
 - API URL: `https://carjsondata.onrender.com/arabalar`  
