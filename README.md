@@ -1,6 +1,7 @@
 # Car JSON Data  
 
 
+
 Bu repo, [CarModelProjectReact](https://github.com/osmandemir2533/CarModelProjectReact) projesinde kullanılan **car.json** verilerini barındırır.  
 
 - **JSON Verileri:** Otomobil bilgilerini içeren `car.json` dosyası.  
